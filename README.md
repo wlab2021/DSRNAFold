@@ -29,7 +29,7 @@ pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 ## Model
 ### Place the trained model into the corresponding folder under RNAFold/model.
-[model file, the code is nsdt](https://pan.baidu.com/s/1wxnsEe9j12EAacZhUWAFvA?pwd=nsdt)
+[model file, the code is n2za](https://pan.baidu.com/s/13cUCNi0tit81ouOC-KwlAg?pwd=n2za)
 
 ## Usage
 
