@@ -26,6 +26,8 @@ pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 ## Usage
 
+### If you want to retrain the model and make predictions, follow these steps sequentially.
+
 ### Step1: Obtaining the encoding model.
 
 #### You need to navigate to the ts2vec file path and execute the following command：
