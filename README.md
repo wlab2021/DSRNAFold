@@ -23,30 +23,37 @@
 
 ### Step1: Obtaining the encoding model
 
-#### You need to navigate to the ts2vec file path and execute the following command.
+#### You need to navigate to the ts2vec file path and execute the following command：
 ```python
 python get_encoding_model.py
 ```
 
 ###  Step2: Retrieve the .npz data files corresponding to the training and test sets.
 
-#### You need to navigate to the RNAFold/code file path and execute the following command.
+#### You need to navigate to the RNAFold/code file path and execute the following command：
 
 ```python
 python get_encoding_data.py
 ```
 
-### Train the pre-trained model：
+### Step3: To obtain the pre-trained model, you need to execute the following command：
 
-#### Execute `python pretrain.py` in the DSRNAfold/code folder.
+```python
+`python pretrain.py
 
-### train the trained model:
+```
 
-#### Execute `python train.py` in the DSRNAfold/code folder.
+### Step4: To obtain the trained model, you need to execute the following command：
 
-### Use the trained model for prediction.
+```python
+`python train.py
+```
 
-### Execute `python predict.py` in the DSRNAfold/code folder.
+### Using the trained model for prediction.
+
+```python
+python predict.py
+```
 
 ## Note
 
