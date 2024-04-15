@@ -1,0 +1,1 @@
+The source code for this project is derived from ts2vec. https://github.com/zhihanyue/ts2vec
