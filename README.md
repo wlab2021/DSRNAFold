@@ -9,11 +9,12 @@ python: 3.7
 numpy: 1.18.0
 pytorch：1.13.0
 ```
+
 ### The dependencies can be installed by:
-
+```python
 #### conda create -n DSRNAFold python=3.7
-
 #### pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+```
 
 ## Data
 
