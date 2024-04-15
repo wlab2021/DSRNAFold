@@ -21,16 +21,20 @@
 
 ## Usage
 
-### Obtaining the encoding model
+### Step1: Obtaining the encoding model
 
 #### You need to navigate to the ts2vec file path and execute the following command.
 ```python
 python get_encoding_model.py
 ```
 
-### Retrieve the NPZ data files corresponding to the training and test sets.
+###  Step2: Retrieve the .npz data files corresponding to the training and test sets.
 
-#### Execute `python get_encoding_data.py` in the DSRNAfold/code folder.
+#### You need to navigate to the RNAFold/code file path and execute the following command.
+
+```python
+python get_encoding_data.py
+```
 
 ### Train the pre-trained model：
 
