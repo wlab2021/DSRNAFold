@@ -1,5 +1,9 @@
 # DSRNAFold
 
+## Web server
+
+A web server is working at http://www.dna.bio.keio.ac.jp/mxfold2/.
+
 ## Requirements
 
 ### The recommended requirements for DSRNAFold are specified as follows:
@@ -23,6 +27,9 @@ pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 ### The dataset is sourced from the RNAStralign、ArchiveII and bpRNA. Download and extract it to the ts2vec/datasets directory.
 [original bpseq format file, the code is nsdt](https://pan.baidu.com/s/1wxnsEe9j12EAacZhUWAFvA?pwd=nsdt)
 
+## Model
+### Place the trained model into the corresponding folder under RNAFold/model.
+[model file, the code is nsdt](https://pan.baidu.com/s/1wxnsEe9j12EAacZhUWAFvA?pwd=nsdt)
 
 ## Usage
 
