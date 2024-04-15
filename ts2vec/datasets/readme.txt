@@ -1,1 +1,0 @@
-Here, the original data in BPSEQ or CT format is placed. 
