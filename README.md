@@ -39,14 +39,14 @@ python get_encoding_data.py
 ### Step3: To obtain the pre-trained model, you need to execute the following command：
 
 ```python
-`python pretrain.py
+python pretrain.py
 
 ```
 
 ### Step4: To obtain the trained model, you need to execute the following command：
 
 ```python
-`python train.py
+python train.py
 ```
 
 ### Using the trained model for prediction.
