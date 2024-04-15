@@ -20,7 +20,8 @@ pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 ## Data
 
-[Click to download the data file](文件的原始链接)
+[Click to download the data file](https://pan.baidu.com/s/1wxnsEe9j12EAacZhUWAFvA?pwd=nsdt)
+the code is nsdt
 ### The dataset is sourced from the RNAStralign ArchiveII bpRNA.
 
 ## Usage
