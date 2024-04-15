@@ -1,0 +1,1 @@
+To store the predicted sequence labels in bpseq format.
