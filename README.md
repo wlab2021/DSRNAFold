@@ -5,9 +5,9 @@
 ### The recommended requirements for DSRNAFold are specified as follows:
 
 ```python
-#### python: 3.7
-#### numpy: 1.18.0
-#### pytorch：1.13.0
+python: 3.7
+numpy: 1.18.0
+pytorch：1.13.0
 ```
 ### The dependencies can be installed by:
 
