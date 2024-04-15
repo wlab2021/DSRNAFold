@@ -23,7 +23,7 @@
 
 ### Obtaining the encoding model
 
-#### To train the RNA sequence embedding model, you need to navigate to the ts2vec file path and execute the following command.
+#### You need to navigate to the ts2vec file path and execute the following command.
 ```python
 python get_encoding_model.py
 ```
