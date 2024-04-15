@@ -21,7 +21,7 @@
 
 ## Usage
 
-### Step1: Obtaining the encoding model
+### Step1: Obtaining the encoding model.
 
 #### You need to navigate to the ts2vec file path and execute the following command：
 ```python
@@ -36,21 +36,23 @@ python get_encoding_model.py
 python get_encoding_data.py
 ```
 
-### Step3: To obtain the pre-trained model, you need to execute the following command：
+### Step3: To obtain the pre-trained model.
+
+####  You need to navigate to the RNAFold/code file path and execute the following command：
 
 ```python
 python pretrain.py
 
 ```
 
-### Step4: To obtain the trained model, you need to execute the following command：
-
+### Step4: To obtain the trained model.
+####  You need to navigate to the RNAFold/code file path and execute the following command：
 ```python
 python train.py
 ```
 
 ### Using the trained model for prediction.
-
+####  You need to navigate to the RNAFold/code file path and execute the following command：
 ```python
 python predict.py
 ```
