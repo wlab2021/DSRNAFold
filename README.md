@@ -2,7 +2,7 @@
 
 ## Web server
 
-A web server is working at http://www.dna.bio.keio.ac.jp/mxfold2/.
+A web server is working at http://123.60.79.219:5000/.
 
 ## Requirements
 
