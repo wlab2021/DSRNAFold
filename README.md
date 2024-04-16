@@ -79,4 +79,4 @@ python predict.py
 ## Note
 
 ### All parameters are configured in JSON files located in the `util` directory.
-### The training data and model will be made publicly available after the acceptance of the paper.
+## The data, code and model will be made publicly available after the acceptance of the paper.
