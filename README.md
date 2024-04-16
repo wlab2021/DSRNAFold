@@ -28,13 +28,10 @@ pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 ## Data
 
 ### The dataset is sourced from the RNAStralign、ArchiveII and bpRNA. Download and extract it to the ts2vec/datasets directory.
-[original bpseq format file, the code is nsdt](https://pan.baidu.com/s/1wxnsEe9j12EAacZhUWAFvA?pwd=nsdt)
-
-[packaged training and testing datasets in NPZ format, the code is eyii](https://pan.baidu.com/s/1O-ntuqGFrEGvaxFO6iK0wg?pwd=eyii ) 
+[original bpseq format file, the code is nsdt](https://pan.baidu.com/s/1wxnsEe9j12EAacZhUWAFvA?pwd=nsdt) 
 
 ## Model
 ### Place the trained model into the corresponding folder under RNAFold/model.
-[model file, the code is n2za](https://pan.baidu.com/s/13cUCNi0tit81ouOC-KwlAg?pwd=n2za)
 
 ## Usage
 
