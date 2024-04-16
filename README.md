@@ -19,6 +19,9 @@ pytorch：1.13.0
 conda create -n DSRNAFold python=3.7
 ```
 ```python
+conda activate DSRNAFold
+```
+```python
 pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 
