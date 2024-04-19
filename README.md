@@ -2,7 +2,7 @@
 
 ## Web server
 
-A web server is working at http://123.60.79.219:5000/.
+A web server is working at  [DSRNAFold online platform](http://123.60.79.219:5000) 
 
 ## Requirements
 
