@@ -22,7 +22,7 @@ conda create -n DSRNAFold python=3.7
 conda activate DSRNAFold
 ```
 ```python
-pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install -r requirements.txt
 ```
 
 ## Data
