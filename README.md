@@ -6,7 +6,7 @@ A web server is working at  [DSRNAFold](http://123.60.79.219:5000) online platfo
 
 ## Requirements
 
-### The recommended requirements for DSRNAFold are specified as follows:
+The recommended requirements for DSRNAFold are specified as follows:
 
 ```python
 python: 3.7
@@ -14,7 +14,7 @@ numpy: 1.18.0
 pytorch：1.13.0
 ```
 
-### The dependencies can be installed by:
+The dependencies can be installed by:
 ```python
 conda create -n DSRNAFold python=3.7
 ```
