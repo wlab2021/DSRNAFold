@@ -27,10 +27,10 @@ pip install -r requirements.txt
 
 ## Data
 
-### The dataset is sourced from the RNAStralign、ArchiveII and bpRNA. Download and extract it to the ts2vec/datasets directory.
+The dataset is sourced from the RNAStralign、ArchiveII and bpRNA. Download and extract it to the ts2vec/datasets directory.
 
 ## Model
-### Place the trained model into the corresponding folder under RNAfold/model.
+Place the trained model into the corresponding folder under RNAfold/model.
 
 The raw data and model can be obtained from this link: [datasets and models](https://drive.google.com/drive/folders/1Jk9e-gTk1xlpYomsDCJ9OyCJD0aFXJQF?usp=sharing) .
 
