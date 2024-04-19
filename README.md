@@ -32,7 +32,7 @@ The dataset is sourced from the RNAStralign、ArchiveII and bpRNA. Download and 
 ## Model
 Place the trained model into the corresponding folder under RNAfold/model.
 
-The raw data and model can be obtained from this link: [datasets and models](https://drive.google.com/drive/folders/1Jk9e-gTk1xlpYomsDCJ9OyCJD0aFXJQF?usp=sharing) .
+### The raw data and model can be obtained from this link: [datasets and models](https://drive.google.com/drive/folders/1Jk9e-gTk1xlpYomsDCJ9OyCJD0aFXJQF?usp=sharing) .
 
 ## Usage
 
@@ -40,14 +40,14 @@ The raw data and model can be obtained from this link: [datasets and models](htt
 
 ### Step1: Obtaining the encoding model.(We have placed the trained encoding files into the "ts2vec/model_file" directory.)
 
-#### You need to navigate to the ts2vec file path and execute the following command：
+You need to navigate to the ts2vec file path and execute the following command：
 ```python
 python get_encoding_model.py
 ```
 
 ###  Step2: Retrieve the .npz data files corresponding to the training and test sets.
 
-#### You need to navigate to the RNAFold/code file path and execute the following command：
+You need to navigate to the RNAFold/code file path and execute the following command：
 
 ```python
 python get_encoding_data.py
@@ -55,7 +55,7 @@ python get_encoding_data.py
 
 ### Step3: To obtain the pre-trained model.
 
-####  You need to navigate to the RNAFold/code file path and execute the following command：
+You need to navigate to the RNAFold/code file path and execute the following command：
 
 ```python
 python pretrain.py
@@ -63,13 +63,13 @@ python pretrain.py
 ```
 
 ### Step4: To obtain the trained model.
-####  You need to navigate to the RNAFold/code file path and execute the following command：
+You need to navigate to the RNAFold/code file path and execute the following command：
 ```python
 python train.py
 ```
 
 ### Using the trained model for prediction.
-####  You need to navigate to the RNAFold/code file path and execute the following command：
+You need to navigate to the RNAFold/code file path and execute the following command：
 ```python
 python predict.py
 ```
