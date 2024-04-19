@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ## Model
 ### Place the trained model into the corresponding folder under RNAfold/model.
 
-The raw data and model can be obtained from this link: [datasets and models](https://drive.google.com/drive/folders/1Jk9e-gTk1xlpYomsDCJ9OyCJD0aFXJQF?usp=sharing) 
+The raw data and model can be obtained from this link: [datasets and models].(https://drive.google.com/drive/folders/1Jk9e-gTk1xlpYomsDCJ9OyCJD0aFXJQF?usp=sharing) 
 
 ## Usage
 
