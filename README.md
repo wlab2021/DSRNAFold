@@ -3,7 +3,6 @@
 ## Web server
 
 A web server is working at  [DSRNAFold](http://123.60.79.219:5000) online platform. Please check it out!!!
-![HOME](Main Page.jpg)
 
 ## Requirements
 
