@@ -9,7 +9,7 @@ A web server is working at  [DSRNAFold](http://123.60.79.219:5000) online platfo
 ### os requirements
   The package development version is tested on Linux operating systems. The developmental version of the package has been tested on the following systems:
   
-    Linux: (Ubuntu 20.04.3 LTS)
+Linux: (Ubuntu 20.04.3 LTS)
 
 The recommended requirements for DSRNAFold are specified as follows:
 
