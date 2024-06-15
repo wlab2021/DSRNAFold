@@ -44,7 +44,7 @@ Place the trained model into the corresponding folder under RNAfold/model.
 
 ### If you want to retrain the model and make predictions, follow these steps sequentially.
 
-### Step1: Obtaining the encoding model.(We have placed the trained encoding files into the "ts2vec/model_file" directory.)
+### Step1: Obtaining the encoding model.(We have placed the trained encoding files into the "ts2vec/model_file" folder.)
 
 You need to navigate to the ts2vec file path and execute the following command：
 ```python
