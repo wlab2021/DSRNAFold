@@ -43,7 +43,7 @@ The dataset is sourced from the RNAStralign, ArchiveII, bpRNA, Rfam14 and Eterna
 ## Model
 Place the trained model into the corresponding folder under RNAfold/model.
 
-### The raw data and model can be obtained from this link: [datasets and models](https://drive.google.com/drive/folders/1Jk9e-gTk1xlpYomsDCJ9OyCJD0aFXJQF?usp=sharing) .
+### Due to limited space on GitHub, the raw data and model can be obtained from this link: [datasets and models](https://drive.google.com/drive/folders/1Jk9e-gTk1xlpYomsDCJ9OyCJD0aFXJQF?usp=sharing) .
 
 ## Usage
 
