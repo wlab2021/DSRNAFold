@@ -10,7 +10,7 @@ Visit the [DSRNAFold web server](http://123.60.79.219:5000) to access the online
 
 ## Requirements
 
-### os requirements
+### OS requirements
   The package development version is tested on Linux operating systems. The developmental version of the package has been tested on the following systems:
   
 Linux: (Ubuntu 20.04.3 LTS)
@@ -48,7 +48,7 @@ Place the trained model into the corresponding folder under RNAfold/model.
 
 ### If you want to retrain the model and make predictions, follow these steps sequentially.
 
-### Step1: Obtaining the encoding model.(We have placed the trained encoding files into the "ts2vec/model_file" folder.)
+### Step1: Obtaining the encoding model.(We have placed the trained encoding files into the "ts2vec/model_file" directory.)
 
 You need to navigate to the ts2vec file path and execute the following command：
 ```python
@@ -87,4 +87,4 @@ python predict.py
 ## Note
 
 ### All parameters are configured in JSON files located in the `util` directory.
-## The data, code and model will be made publicly available after the acceptance of the paper.
+### The data, code and model will be made publicly available after the acceptance of the paper.
