@@ -6,7 +6,7 @@ The data, code and models will be made publicly available upon the acceptance of
 
 ## Web server
 
-A web server is working at  [DSRNAFold](http://123.60.79.219:5000) online platform. Please check it out!!!
+Visit the [DSRNAFold web server](http://123.60.79.219:5000) to access the online platform and utilize the model interactively.
 
 ## Requirements
 
