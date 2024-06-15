@@ -2,7 +2,7 @@
 
 DSRNAFold is a deep learning-based tool for predicting RNA secondary structures, integrating RNA sequence and structural context information. This README provides instructions on how to set up and use DSRNAFold.
 
-The data, code and models will be made publicly available upon the acceptance of the paper. Currently, access is restricted to reviewers and can be obtained using the password provided in the "Code availability" section of the submitted manuscript.
+The data, code and models will be made publicly available upon the acceptance of the paper. Currently, access is restricted to reviewers and can be obtained using the password provided in the `Code availability` section of the submitted manuscript.
 
 ## Web server
 
