@@ -49,7 +49,9 @@ Place the trained model into the corresponding folder under RNAfold/model.
 ### If you want to retrain the model and make predictions, follow these steps sequentially.
 
 ### Prep
-    All parameters are configured in JSON files located in the `util` directory. So you need to put the json file of the corresponding dataset into the DSRNAFold/util folder and replace it in the corresponding .py file
+  All parameters are configured in JSON files located in the `util` directory. 
+  You need to put the json file of the corresponding dataset into the DSRNAFold/util folder and update `args` parameter in the corresponding .py file.
+
 ### Step1: Obtaining the encoding model.(We have placed the trained encoding files into the "ts2vec/model_file" directory.)
 
 You need to navigate to the ts2vec file path and execute the following command：
