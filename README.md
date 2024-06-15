@@ -63,6 +63,7 @@ python get_encoding_model.py
 ###  Step2: Retrieve the .npz data files corresponding to the training and test sets.
 
 You need to navigate to the RNAFold/code file path and execute the following command：
+Please note that due to the large size of the generated npz file, it is recommended that the host has at least 128GB of memory.
 
 ```python
 python get_encoding_data.py
