@@ -89,5 +89,4 @@ python predict.py
 ```
 
 ## Note
-
-1. For other verification experiments, please see readme.md in the corresponding folder.
+  For other verification experiments, please see readme.md in the corresponding folder.
