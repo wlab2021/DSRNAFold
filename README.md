@@ -19,7 +19,7 @@ numpy: 1.18.0
 pytorch：1.13.0
 ```
 
-The dependencies can be installed by:
+The dependencies can be installed by:(code environment installation takes approximately 8 minutes)
 ```python
 conda create -n DSRNAFold python=3.7
 ```
