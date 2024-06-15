@@ -86,5 +86,6 @@ python predict.py
 
 ## Note
 
+### For other verification experiments, please see readme.md in the corresponding folder.
 ### All parameters are configured in JSON files located in the `util` directory.
 ### The data, code and model will be made publicly available after the acceptance of the paper.
