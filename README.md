@@ -15,6 +15,7 @@ Visit the [DSRNAFold web server](http://123.60.79.219:5000) to access the online
   The package development version is tested on Linux operating systems. The developmental version of the package has been tested on the following systems:
   
 Linux: (Ubuntu 20.04.3 LTS)
+Experimental environment: 515GB memory, GPU: RTX 3090.
 
 The recommended requirements for DSRNAFold are specified as follows:
 
