@@ -103,10 +103,10 @@ python predict.py
     For Step4: Total run time: 1.01 minutes.
     For predict: Total run time: 0.72 minutes.
   ### RNAStralign_ArchiveII-512(please note that this only contains partial data.):
-    For Step1: Total run time: 6.90 minutes
-    For Step2: Total run time: 13.27 minutes
-    For Step3: Total run time: 45.22 minutes
-    For Step4: Total run time: 1.01 minutes
-    For predict: Total run time: 0.72 minutes
+    For Step1: Total run time: 6.90 minutes.
+    For Step2: Total run time: 13.27 minutes.
+    For Step3: Total run time: 45.22 minutes.
+    For Step4: Total run time: 16.98 minutes.
+    For predict: Total run time: 1.48 minutes.
 ## Note
   For other verification experiments, please see readme.md in the corresponding folder.
