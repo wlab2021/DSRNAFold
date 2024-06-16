@@ -95,9 +95,13 @@ python predict.py
 ```
 
 ## For Demo
-  ### RNAStralign_ArchiveII-128:
-
-  ### RNAStralign_ArchiveII-128:
+  ### RNAStralign_ArchiveII-128(please note that this only contains partial data.):
+    For Step1: Total run time: 13.91 minutes
+    For Step2: Total run time: 2.71 minutes
+    For Step3: Total run time: 4.16 minutes
+    For Step4: Total run time: 1.01 minutes
+    For predict: Total run time: 0.72 minutes
+  ### RNAStralign_ArchiveII-512(please note that this only contains partial data.):
 
 ## Note
   For other verification experiments, please see readme.md in the corresponding folder.
