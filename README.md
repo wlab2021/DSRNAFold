@@ -59,14 +59,14 @@ Place the trained model into the corresponding folder under RNAfold/model.
 
 ### Step1: Obtaining the encoding model.(We have placed the trained encoding files into the "ts2vec/model_file" directory.)
 
-You need to navigate to the ts2vec file path and execute the following command：
+You need to navigate to the ts2vec file path and execute the following command(Please note: This step may take several hours if the data size is large.)：
 ```python
 python get_encoding_model.py
 ```
 
 ###  Step2: Retrieve the .npz data files corresponding to the training and test sets.
 
-You need to navigate to the RNAFold/code file path and execute the following command：
+You need to navigate to the RNAFold/code file path and execute the following command(Please note: This step may take several hours if the data size is large.)：
 Please note that due to the large size of the generated npz file, it is recommended that the host has at least 512GB of memory.
 
 ```python
