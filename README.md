@@ -95,6 +95,7 @@ python predict.py
 ```
 
 ## For Demo
+  #### Results of testing on RTX 3090.
   ### RNAStralign_ArchiveII-128(please note that this only contains partial data.):
     For Step1: Total run time: 13.91 minutes.
     For Step2: Total run time: 2.71 minutes.
