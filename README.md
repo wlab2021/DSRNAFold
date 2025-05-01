@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ## Data
 
-The dataset is sourced from the RNAStralign, ArchiveII, bpRNA, Rfam15 and EternaBench. RNAStralign, ArchiveII, and bpRNA datasets are used for performance testing. EternaBench and Rfam14 datasets for chemical mapping and riboswitch validation experiments. RNAStralign dataset also used for RNA classification experiments. Download and extract it to the RNAseq2vec/datasets folder.
+The dataset is sourced from the RNAStralign, ArchiveII, bpRNA, Rfam14, Rfam15 and EternaBench. RNAStralign, ArchiveII, bpRNA and Rfam15 datasets are used for performance testing. EternaBench and Rfam14 datasets for chemical mapping and riboswitch validation experiments. RNAStralign dataset also used for RNA classification experiments. Download and extract it to the RNAseq2vec/datasets folder.
 
 
 ## Model
