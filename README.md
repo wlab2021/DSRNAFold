@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ## Data
 
-The dataset is sourced from the RNAStralign, ArchiveII, bpRNA, Rfam14, Rfam15 and EternaBench. RNAStralign, ArchiveII, bpRNA and Rfam15 datasets are used for performance testing. EternaBench and Rfam14 datasets for chemical mapping and riboswitch validation experiments. RNAStralign dataset also used for RNA classification experiments. Download and extract it to the RNAseq2vec/datasets folder.
+The dataset is sourced from the RNAStralign, ArchiveII, bpRNA, Rfam14, Rfam15 and EternaBench. RNAStralign, ArchiveII, bpRNA and Rfam15 datasets are used for performance testing. EternaBench and Rfam14 RNAStralign, bpRNA datasets for chemical mapping and riboswitch validation experiments. RNAStralign dataset also used for RNA classification experiments. Download and extract it to the RNAseq2vec/datasets folder.
 
 
 ## Model
@@ -57,7 +57,7 @@ Place the trained model into the corresponding folder under RNAfold/model.
   All parameters are configured in `json` files located in the `util` directory. 
   You need to put the json file of the corresponding dataset into the `DSRNAFold/util` folder and update `args` parameter in the corresponding `.py` file.
 
-### Step1: Obtaining the encoding model.(We have placed the trained encoding files into the "ts2vec/model_file" directory.)
+### Step1: Obtaining the encoding model.(We have placed the trained encoding files into the "RNAseq2vec/model_file" directory.)
 
 You need to navigate to the ts2vec file path and execute the following command(`Please note`: This step may take several hours if the data size is large.)：
 ```python
