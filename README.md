@@ -97,13 +97,13 @@ python predict.py
 ## For Demo
   #### Results of testing on RTX-3090.
   #### The demo only uses a subset of the data to demonstrate the code execution process. The prediction results are not reliable. For full data utilization, please visit [Data](https://drive.google.com/drive/folders/1Jk9e-gTk1xlpYomsDCJ9OyCJD0aFXJQF?usp=sharing) .
-  ### RNAStralign_ArchiveII-128(please note that this only contains partial data.):
+  ### train_test-128(please note that this only contains partial data.):
     For Step1: Total run time: 13.91 minutes.
     For Step2: Total run time: 2.71 minutes.
     For Step3: Total run time: 4.16 minutes.
     For Step4: Total run time: 1.01 minutes.
     For predict: Total run time: 0.72 minutes.
-  ### RNAStralign_ArchiveII-512(please note that this only contains partial data.):
+  ### trainn_test-512(please note that this only contains partial data.):
     For Step1: Total run time: 6.90 minutes.
     For Step2: Total run time: 13.27 minutes.
     For Step3: Total run time: 45.22 minutes.
