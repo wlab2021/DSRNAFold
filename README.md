@@ -103,7 +103,7 @@ python predict.py
     For Step3: Total run time: 4.16 minutes.
     For Step4: Total run time: 1.01 minutes.
     For predict: Total run time: 0.72 minutes.
-  ### trainn_test-512(please note that this only contains partial data.):
+  ### train_test-512(please note that this only contains partial data.):
     For Step1: Total run time: 6.90 minutes.
     For Step2: Total run time: 13.27 minutes.
     For Step3: Total run time: 45.22 minutes.
