@@ -59,7 +59,7 @@ Place the trained model into the corresponding folder under RNAfold/model.
 
 ### Step1: Obtaining the encoding model.(We have placed the trained encoding files into the "RNAseq2vec/model_file" directory.)
 
-You need to navigate to the ts2vec file path and execute the following command(`Please note`: This step may take several hours if the data size is large.)：
+You need to navigate to the RNAseq2vec file path and execute the following command(`Please note`: This step may take several hours if the data size is large.)：
 ```python
 python get_encoding_model.py
 ```
