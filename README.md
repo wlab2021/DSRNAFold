@@ -7,7 +7,7 @@ Now, the data, code, and model of the paper have been made public.
 
 ## Web server
 
-Visit the [DSRNAFold web server](http://113.44.47.61:5000/) to access the online platform and utilize the model interactively.
+Visit the [DSRNAFold web server](http://113.44.47.61/) to access the online platform and utilize the model interactively.
 
 ## Requirements
 
